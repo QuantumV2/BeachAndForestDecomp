@@ -15,7 +15,7 @@ if (global.pizzadelivery && instance_exists(obj_gnomecustomerblock))
         {
             var door_xscale = (-(sign((door.image_xscale * 16))))
             depth = (other.depth - 1)
-            scene_info = [[197, player], [194, player, 634, 0.35, _xscale], [203, player], [194, player, 634, 0.35, _xscale], [203, player], [195, player, (door.x + (door.player_standx * (-door_xscale))), 6, 16], [194, player, 614, 0.35, door_xscale], [193, 30], [207, door, 1], [199, xx, yy, other.spr_idle, other.spr_happy, (-door_xscale)], [193, 5], [194, player, 635, 0.35, door_xscale], [193, 45], [194, player, 551, 0.35, door_xscale], [198, player, door.gnome_id]]
+            scene_info = [[cutscene_customer_start, player], [cutscene_set_sprite, player, spr_player_knock, 0.35, _xscale], [cutscene_waitfor_sprite, player], [cutscene_set_sprite, player, spr_player_knock, 0.35, _xscale], [cutscene_waitfor_sprite, player], [cutscene_move_player, player, (door.x + (door.player_standx * (-door_xscale))), 6, 16], [cutscene_set_sprite, player, spr_player_idle, 0.35, door_xscale], [cutscene_wait, 30], [cutscene_image_index, door, 1], [cutscene_customer_create, xx, yy, other.spr_idle, other.spr_happy, (-door_xscale)], [cutscene_wait, 5], [cutscene_set_sprite, player, spr_player_givepizza, 0.35, door_xscale], [cutscene_wait, 45], [cutscene_set_sprite, player, spr_player_throw, 0.35, door_xscale], [cutscene_customer_end, player, door.gnome_id]]
         }
     }
 }
