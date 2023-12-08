@@ -1,0 +1,9 @@
+image_speed = 0
+content = obj_slope
+refresh = 20
+depth = 1
+baddieid[0] = self
+baddieid[1] = self
+baddieid[2] = self
+baddieid[3] = self
+baddieid[4] = self
