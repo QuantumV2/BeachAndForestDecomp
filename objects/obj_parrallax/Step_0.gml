@@ -14,7 +14,10 @@ layer_x("Backgrounds_sky", (_cam_x * 0.85))
 layer_y("Backgrounds_sky", (_cam_y * 0.85))
 layer_x("Backgrounds_sky2", _cam_x)
 layer_y("Backgrounds_sky2", _cam_y)
-layer_x("Backgrounds_still1", (_cam_x - clamp((_cam_x * (0.15 * (960 / room_width))), 0, (sprite_get_width(layer_background_get_sprite(layer_background_get_id(layer_get_id("Backgrounds_still1")))) - 960))))
-layer_y("Backgrounds_still1", (_cam_y - clamp((_cam_y * (0.15 * (540 / room_height))), 0, (sprite_get_height(layer_background_get_sprite(layer_background_get_id(layer_get_id("Backgrounds_still1")))) - 540))))
+if(layer_background_get_sprite(layer_get_id("Backgrounds_still1")) != -1 && layer_background_get_sprite(layer_get_id("Backgrounds_stillH1")) != -1)
+{
+layer_x("Backgrounds_still1", (_cam_x - clamp((_cam_x * (0.15 * (960 / room_width))), 0, (sprite_get_width(layer_background_get_sprite(layer_get_id("Backgrounds_still1)"))) - 960))))
+layer_y("Backgrounds_still1", (_cam_y - clamp((_cam_y * (0.15 * (540 / room_height))), 0, (sprite_get_height(layer_background_get_sprite(layer_get_id("Backgrounds_still1"))) - 540))))
 layer_x("Backgrounds_stillH1", (_cam_x * 0.25))
-layer_y("Backgrounds_stillH1", (_cam_y - clamp((_cam_y * (0.15 * (540 / room_height))), 0, (sprite_get_height(layer_background_get_sprite(layer_background_get_id(layer_get_id("Backgrounds_stillH1")))) - 540))))
+layer_y("Backgrounds_stillH1", (_cam_y - clamp((_cam_y * (0.15 * (540 / room_height))), 0, (sprite_get_height(layer_background_get_sprite(layer_get_id("Backgrounds_stillH1"))) - 540))))
+}

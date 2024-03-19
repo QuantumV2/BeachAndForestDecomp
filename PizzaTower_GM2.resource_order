@@ -1,6 +1,6 @@
 {
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
     {"name":"spr_cheeseblob","order":1,"path":"sprites/spr_cheeseblob/spr_cheeseblob.yy",},
     {"name":"spr_cheesemaker","order":2,"path":"sprites/spr_cheesemaker/spr_cheesemaker.yy",},
     {"name":"spr_railh2right","order":3,"path":"sprites/spr_railh2right/spr_railh2right.yy",},
