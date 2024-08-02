@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"__lnc__f1469",
   "isCompatibility":false,
   "isDnD":false,

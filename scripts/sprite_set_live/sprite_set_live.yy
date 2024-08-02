@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"sprite_set_live",
   "isCompatibility":false,
   "isDnD":false,

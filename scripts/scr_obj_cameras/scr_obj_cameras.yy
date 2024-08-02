@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_obj_cameras",
   "isCompatibility":false,
   "isDnD":false,

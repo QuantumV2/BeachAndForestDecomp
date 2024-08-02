@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_room_start",
   "isCompatibility":false,
   "isDnD":false,

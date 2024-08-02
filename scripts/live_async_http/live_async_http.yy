@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_async_http",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_obj_triggers",
   "isCompatibility":false,
   "isDnD":false,

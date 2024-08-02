@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_log",
   "isCompatibility":false,
   "isDnD":false,

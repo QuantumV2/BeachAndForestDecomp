@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_script_get_index",
   "isCompatibility":false,
   "isDnD":false,

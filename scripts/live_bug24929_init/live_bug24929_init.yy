@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_bug24929_init",
   "isCompatibility":false,
   "isDnD":false,

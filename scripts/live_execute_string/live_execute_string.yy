@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_execute_string",
   "isCompatibility":false,
   "isDnD":false,

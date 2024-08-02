@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"cutscene_gustavofail_start",
   "isCompatibility":false,
   "isDnD":false,

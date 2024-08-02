@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"cutscene_check_collision",
   "isCompatibility":false,
   "isDnD":false,

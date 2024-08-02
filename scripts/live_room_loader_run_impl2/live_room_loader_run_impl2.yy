@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_room_loader_run_impl2",
   "isCompatibility":false,
   "isDnD":false,

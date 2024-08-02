@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_room_loader_add_layer",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_preinit_api",
   "isCompatibility":false,
   "isDnD":false,

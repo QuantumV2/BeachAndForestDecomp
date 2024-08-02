@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_update_script_impl",
   "isCompatibility":false,
   "isDnD":false,

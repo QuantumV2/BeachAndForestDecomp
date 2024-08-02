@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_room_updated",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_preinit_project_fake_call",
   "isCompatibility":false,
   "isDnD":false,

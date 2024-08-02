@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_shader_updated_default",
   "isCompatibility":false,
   "isDnD":false,

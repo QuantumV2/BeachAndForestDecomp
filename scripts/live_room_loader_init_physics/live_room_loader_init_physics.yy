@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_room_loader_init_physics",
   "isCompatibility":false,
   "isDnD":false,

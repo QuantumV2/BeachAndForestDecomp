@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"live_snippet_create",
   "isCompatibility":false,
   "isDnD":false,

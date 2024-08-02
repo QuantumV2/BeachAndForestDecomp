@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_player_rideweenie",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"shader_set_live",
   "isCompatibility":false,
   "isDnD":false,
